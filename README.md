@@ -68,7 +68,7 @@
       <img align="center" alt="MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     </a>    
     <a href="#">
-      <img align="center" alt="Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
+      <img align="center" alt="Angular" height="30" width="40" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     </a>
     <a href="#">
       <img align="center" alt="Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
