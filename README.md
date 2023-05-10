@@ -10,7 +10,7 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeanrp&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jeanrp&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
   <a href="#">
     <img height="180rem" alt="Most Used Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jeanrp&langs_count=6&layout=compact&theme=midnight-purple"/>
