@@ -35,7 +35,7 @@
       <img align="center" alt="VueJS" height="30" width="40" title="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
     </a>    
     <a href="#">
-      <img align="center" alt="JQuery" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"> 
+      <img align="center" alt="JQuery" height="30" width="40" title="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"> 
     </a>
     <a href="#">
       <img align="center" alt="HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
