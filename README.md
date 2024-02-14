@@ -52,9 +52,6 @@
     <a href="#">
       <img align="center" alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
-    <a href="#">            
-      <img align="center" alt="AWS" height="30" width="40" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-    </a>
     <a href="#">
       <img align="center" alt="SQL Server" height="30" width="40" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     </a>
