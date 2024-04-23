@@ -22,49 +22,49 @@
   
 <div style="display: inline_block">
   <p align="center">    
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt=".NET Core" height="30" width="40" title=".NET Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
     </a>
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="C#" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     </a>
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>    
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="VueJS" height="30" width="40" title="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
     </a>    
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="JQuery" height="30" width="40" title="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"> 
     </a>
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </a>
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </a>
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     </a>    
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="TypeScript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     </a>
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="SQL Server" height="30" width="40" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     </a>
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="Docker" height="30" width="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     </a>
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="Jenkins" height="30" width="40" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg">
     </a>
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     </a>
-    <a href="#">
+    <a href="#" style="text-decoration: auto;">
       <img align="center" alt="Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     </a>
   </p>
