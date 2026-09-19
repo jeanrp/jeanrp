@@ -2,18 +2,18 @@
 <meta name="keywords" content="Software Engineer, C#, JavaScript, Vue, HTML5, CSS3, Bootstrap, Python, SQL Server, Oracle, MongoDB"/>
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:100E17,100:00E5FF&height=120&section=header"/>
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=ツ)
 
-<div align="center">
+<div align="center" style="width:100%;">
   <br>
   <a href="#">
-    <img height="180rem" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanrp&theme=2077"/>
+    <img height="180rem" style="width:65%;" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanrp&theme=2077"/>
   </a>
   <a href="#">
-    <img height="180rem" alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanrp&theme=radical"/>
+    <img height="180rem" style="width:35%;" alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanrp&theme=radical"/>
   </a>
 </div> 
    
