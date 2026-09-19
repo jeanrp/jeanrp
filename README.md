@@ -9,7 +9,12 @@
 
 <div align="center">
   <br>
-
+  <a href="#">
+    <img height="180rem" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanrp&theme=2077"/>
+  </a>
+  <a href="#">
+    <img height="180rem" alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeanrp&theme=radical"/>
+  </a>
 </div> 
    
 <br>
