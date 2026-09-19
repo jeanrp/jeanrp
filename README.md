@@ -81,5 +81,5 @@
 </div>
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/apitype=waving&color=0:100E17,100:00E5FF&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:100E17,100:00E5FF&height=120&section=footer"/>
 </a>
