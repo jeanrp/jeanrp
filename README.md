@@ -2,7 +2,7 @@
 <meta name="keywords" content="Software Engineer, C#, JavaScript, Vue, HTML5, CSS3, Bootstrap, Python, SQL Server, Oracle, MongoDB"/>
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E2A56&height=120&section=header"/>
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=ツ)
